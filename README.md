@@ -8,7 +8,4 @@
 Arquivos Adicionados Serão Compactados Automaticamente
 </br>
 </br>
-Fará Todo o Processo Sem Que Você Precise Digitar Um Comando Se Quer No Terminal!
-</br>
-</br>
 MENU Completo, Fácil, Simples e Interativo, Te Dando Uma Total Liberdade Para Fazer Todas As Opções Possíveis...
