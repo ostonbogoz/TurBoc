@@ -1,8 +1,8 @@
 # 😎👉👉💥 [TurBoc] 
 <h1>SuPeR CoMPaCTaDoR De SiSTeMaS WiNDoWS</h1>
-<h2>LiBeRe MuiTo eSPaÇo De aRMaZeNaMeNTo</h2>
+<h1>LiBeRe MuiTo eSPaÇo De aRMaZeNaMeNTo</h1>
 <img src="https://github.com/ostonprata/TurBoc/blob/main/TurBoc-00.png">
-<h3>O QUE É</h3>
+<h2>O QUE É</h2>
 É Um Fork De Um Dos Comandos Recem Lançados a Partir Do Windows 10 (Compact.exe).
 </br>
 </br>
