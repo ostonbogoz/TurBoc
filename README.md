@@ -1,5 +1,5 @@
 # 😎👉👉💥 [TurBoc] SuPeR CoMPaCTaDoR De SiSTeMaS WiNDoWS 10 - LiBeRe MuiTo eSPaÇo De aRMaZeNaMeNTo
-<h1>EM PASTAS COMPACTADAS, ARQUIVOS ADICIONADOS SERÃO COMPACTADOS AUTOMATICAMENTE!</h1>
+<h1>ARQUIVOS ADICIONADOS SERÃO COMPACTADOS AUTOMATICAMENTE!</h1>
 <img src="https://github.com/ostonprata/TurBoc/blob/main/TurBoc.png">
 <h2>O QUE É</h2>
 É Um Fork De Um Dos Comandos Recem Lançados a Partir Do Windows 10 (Compact.exe).
