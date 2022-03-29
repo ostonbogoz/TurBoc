@@ -1,11 +1,3 @@
-# TurBoc
-😎👉👉💥 SUPER COMPACTADOR DE SISTEMA E DE PASTAS - LIBERE MUITO ESPAÇO DE ARMAZENAMENTO
-</br>
-</br>
+# 😎👉👉💥 [TurBoc] SuPeR CoMPaCTaDoR Do SiSTeMa WiNDoWS 10 - LiBeRe MuiTo eSPaÇo De aRMaZeNaMeNTo
+<h1>NO DIRETÓRIO COPRIMIDO, NOVOS ARQUIVOS ADICIONADOS SERÃO COMPACTADOS AUTOMATICAMENTE</h1>
 <img src="https://github.com/ostonprata/TurBoc/blob/main/TurBoc.png">
-</br>
-</br>
-</br>
-Compactar ou descompactar arquivos em um sistema de arquivos NTFS a partir Do Windows 10. 
-</br>
-Comprimi um diretório também para que os novos arquivos adicionados ao diretório sejam compactados automaticamente.
