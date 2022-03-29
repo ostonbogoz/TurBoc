@@ -5,7 +5,7 @@
 É Um Fork De Um Dos Comandos Recem Lançados a Partir Do Windows 10 (Compact.exe).
 </br>
 </br>
-Fará Todo o Processo Sem Que Você Precise Digitar Um Comando No Terminal Se Quer!
+Fará Todo o Processo Sem Que Você Precise Digitar Um Comando Se Quer No Terminal!
 </br>
 </br>
 Já Vem Com Um MENU Fácil, Simples e Interativo Te Dando Uma Total Liberdade Para Fazer Todas As Opções Possíveis...
