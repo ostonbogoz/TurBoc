@@ -6,6 +6,6 @@
 </br>
 </br>
 </br>
-Compactar ou descompactar arquivos em um sistema de arquivos NTFS. 
+Compactar ou descompactar arquivos em um sistema de arquivos NTFS a partir Do Windows 10. 
 </br>
 Comprimi um diretório também para que os novos arquivos adicionados ao diretório sejam compactados automaticamente.
