@@ -1,4 +1,4 @@
-# TurBoc | SuPeR CoMPaCTaDoR De SiSTeMaS WiNDoWS
+# [TurBoc] SuPeR CoMPaCTaDoR De SiSTeMaS WiNDoWS
 <h2>LiBeRe MuiTo eSPaÇo De aRMaZeNaMeNTo</h2>
 <img src="https://github.com/ostonprata/TurBoc/blob/main/TurBoc_1280x720.jpg">
 <h2>O QUE É</h2>
